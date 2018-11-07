@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine(args.Length);
         }
+        static void tessssssst()
+        {
+            Console.WriteLine("FUCKING CHANGES");
+        }
     }
 }
